@@ -1,0 +1,33 @@
+.logo{
+	max-width: 60%;
+	margin-left: 20%;
+}
+
+.press-start{
+	font-family: 'Press Start 2P', cursive;
+}
+
+.blue{
+	color: #2c72ff;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.font-sm{
+	font-size: 0.5vw;
+}
+
+.font-xs{
+	font-size: 0.5vw;
+}
+
+a:link, a:visited, a:hover{
+	text-decoration: none;
+	color: #2c72ff;
+}
+
+.margin-top-4{
+	margin-top: 4%;
+}
